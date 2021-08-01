@@ -1,4 +1,4 @@
-package com.example.gtk_flutter
+package net.appdone.firebaseMeetup
 
 import io.flutter.embedding.android.FlutterActivity
 

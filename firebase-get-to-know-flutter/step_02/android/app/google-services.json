@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591869947547",
+    "project_id": "fir-flutter-codelab-e0799",
+    "storage_bucket": "fir-flutter-codelab-e0799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591869947547:android:273d497c7c815eb196e03e",
+        "android_client_info": {
+          "package_name": "net.appdone.firebaseMeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591869947547-v0dfcgvkhag23smrlnq30f65l1h5i6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3rA_j2GlB-RT5eT8H7HukeiANndLoRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591869947547-v0dfcgvkhag23smrlnq30f65l1h5i6g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591869947547-abehhocnb8tctqbljtsfr86kiv9fd6fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
